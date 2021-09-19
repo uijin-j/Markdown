@@ -9,7 +9,6 @@ It's a **concise**  and __Human-friendly__.
     # This is an <h1> tag
     ## This is an <h2> tag  
     ###### This is an <h6> tag
-<br/>
 
 ## 2. Emphasis
     *This text will be italic*
@@ -118,7 +117,7 @@ function fancyAlert(arg) {
     }
 }
 ```
-<br/><br/>
+<br/>
 
 ## 10. Tables
     First Header | Second Header
@@ -127,10 +126,10 @@ function fancyAlert(arg) {
     Content in the first column | Content in the second column
 
 💻  
-First Header | Second Header  
------------- | -------------  
-Content from cell 1 | Content from cell 2  
-Content in the first column | Content in the second column
+|First Header | Second Header|  
+|------------ | -------------|  
+|Content from cell 1 | Content from cell 2|  
+|Content in the first column | Content in the second column|
 <br/>
 
 ## 11. Emoji 😊
