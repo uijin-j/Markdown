@@ -5,8 +5,6 @@ It's a **concise**  and __Human-friendly__.
 <br/><br/>
 
 ## Markdown Syntax
-<br/>
-
 ## 1. Headers  
     # This is an <h1> tag
     ## This is an <h2> tag  
@@ -112,13 +110,14 @@ It's a **concise**  and __Human-friendly__.
     }
     ```
 
-💻 ```javascript
-    function fancyAlert(arg) {
-        if(arg) {
-            $.facebox({div:'#foo'})
-        }
+💻  
+```javascript
+function fancyAlert(arg) {
+    if(arg) {
+        $.facebox({div:'#foo'})
     }
-    ```
+}
+```
 <br/><br/>
 
 ## 10. Tables
@@ -127,7 +126,7 @@ It's a **concise**  and __Human-friendly__.
     Content from cell 1 | Content from cell 2
     Content in the first column | Content in the second column
 
-💻 Tables
+💻  
 First Header | Second Header  
 ------------ | -------------  
 Content from cell 1 | Content from cell 2  
