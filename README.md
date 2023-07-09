@@ -93,14 +93,14 @@ It's a **concise**  and __Human-friendly__.
 
 <br/>
 
-### 8. Syntax highlighting
+### 8. Inline code
     I think you should use an
     `<addr>` element here instead.
 
 💻 I think you should use an `<addr>` element here instead.
 <br/><br/>
 
-### 9. Inline code
+### 9. Syntax highlighting
     ```javascript
     function fancyAlert(arg) {
         if(arg) {
